@@ -1,0 +1,1 @@
+FYI: Made the password validation also prevent weak passwords, just so you are aware when attempting to test the client.
